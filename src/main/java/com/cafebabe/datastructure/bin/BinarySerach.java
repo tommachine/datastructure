@@ -15,7 +15,7 @@ public class BinarySerach {
     }
 
 
-    private int binarySerach(int value) {
+    private int binarySerachByWhile(int value) {
         int minIndex = 0;
         int maxIndex = data.length - 1;
         int index;
@@ -36,10 +36,13 @@ public class BinarySerach {
     }
 
 
+
+
+
     public static void main(String[] args) {
         int[] data = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         BinarySerach binarySerach = new BinarySerach(data);
-        int index = binarySerach.binarySerach(0);
+        int index = binarySerach.binarySerachByWhile(0);
         System.out.println(index);
     }
 }

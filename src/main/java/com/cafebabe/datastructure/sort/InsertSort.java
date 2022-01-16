@@ -1,6 +1,6 @@
 package com.cafebabe.datastructure.sort;
 
-import com.cafebabe.datastructure.ArrayUtils.RandomArrayGenerator;
+import com.cafebabe.datastructure.arrayutils.RandomArrayGenerator;
 
 import java.util.Arrays;
 

@@ -1,11 +1,10 @@
 package com.cafebabe.datastructure.sort;
 
-import com.cafebabe.datastructure.ArrayUtils.RandomArrayGenerator;
+import com.cafebabe.datastructure.arrayutils.RandomArrayGenerator;
 
 import java.util.Arrays;
 
 public class BubbleSort {
-
     public static void main(String[] args) {
         int[] data = RandomArrayGenerator.generate(20);
         System.out.println(Arrays.toString(data));

@@ -1,4 +1,4 @@
-package com.cafebabe.datastructure.ArrayUtils;
+package com.cafebabe.datastructure.arrayutils;
 
 public class ArrayPrinter {
     public static void printArray(int[][] arr){
