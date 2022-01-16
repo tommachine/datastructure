@@ -1,4 +1,4 @@
-package com.cafebabe.datastructure.ArrayUtils;
+package com.cafebabe.datastructure.arrayutils;
 
 import java.util.Random;
 

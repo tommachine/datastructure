@@ -1,6 +1,6 @@
 package com.cafebabe.datastructure.sparsearray;
 
-import com.cafebabe.datastructure.ArrayUtils.ArrayPrinter;
+import com.cafebabe.datastructure.arrayutils.ArrayPrinter;
 
 public class SpaeseArrayTest {
     public static void main(String[] args) {
